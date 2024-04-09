@@ -33,7 +33,7 @@ The "Wild Tomorrow Survey Responses" dataset consists of responses collected bef
 
 **Submission:**
 - Deadline for submission: Friday, 12th April.
-- Completed report and R script to be sent to stats@lessonsinconservation.com.
+- Completed report and R script to be sent to ----.
 
 **Contact:**
 For any questions or clarifications regarding the analysis, please contact [Your Name] at [Your Email Address].
